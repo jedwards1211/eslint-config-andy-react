@@ -15,7 +15,7 @@ module.exports = {
     "react/no-did-mount-set-state": 0,
     "react/no-unknown-property": 0,
     "react/prop-types": "error",
-    "react/wrap-multilines": "error",
+    "react/jsx-wrap-multilines": "error",
   },
   "plugins": [
     "react"
