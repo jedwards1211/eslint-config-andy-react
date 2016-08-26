@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-andy-react",
+  "version": "1.0.0-beta1",
+  "description": "my own eslint config for React.  eschews most stylistic rules that aren't auto-fixable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedwards1211/eslint-config-andy-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "react"
+  ],
+  "author": "Andy Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedwards1211/eslint-config-andy-react/issues"
+  },
+  "homepage": "https://github.com/jedwards1211/eslint-config-andy-react#readme",
+  "dependencies": {
+    "eslint-config-andy": "github:jedwards1211/eslint-config-andy"
+  }
+}
