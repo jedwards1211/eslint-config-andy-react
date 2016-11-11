@@ -14,7 +14,8 @@ module.exports = {
     "react/jsx-space-before-closing": "error",
     "react/no-did-mount-set-state": 0,
     "react/no-unknown-property": 0,
-    "react/prop-types": "error",
+    // use babel-plugin-flow-react-proptypes instead
+    "react/prop-types": 0,
     "react/jsx-wrap-multilines": "error",
   },
   "plugins": [

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-andy-react",
-  "version": "1.0.0-beta3",
+  "version": "1.0.0-beta4",
   "description": "my own eslint config for React.  eschews most stylistic rules that aren't auto-fixable",
   "main": "index.js",
   "scripts": {
