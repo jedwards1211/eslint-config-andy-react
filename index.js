@@ -1,7 +1,7 @@
 module.exports = {
   "parser": "babel-eslint",
   "extends": [
-    "eslint-config-andy",
+    "@jedwards1211/eslint-config",
     "plugin:react/recommended"
   ],
   "rules": {

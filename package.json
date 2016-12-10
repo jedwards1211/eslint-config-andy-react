@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-andy-react",
-  "version": "1.0.0-beta4",
+  "name": "@jedwards1211/eslint-config-react",
+  "version": "1.0.0",
   "description": "my own eslint config for React.  eschews most stylistic rules that aren't auto-fixable",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/jedwards1211/eslint-config-andy-react#readme",
   "dependencies": {
-    "eslint-config-andy": "github:jedwards1211/eslint-config-andy#2.0.0-beta7",
+    "@jedwards1211/eslint-config-andy": "^1.0.0"
+  },
+  "peerDependencies": {
     "eslint-plugin-react": "^6.1.2"
   }
 }
