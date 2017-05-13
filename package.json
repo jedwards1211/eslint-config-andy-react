@@ -1,6 +1,6 @@
 {
   "name": "@jedwards1211/eslint-config-react",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "my own eslint config for React.  eschews most stylistic rules that aren't auto-fixable",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "@jedwards1211/eslint-config": "^1.0.0"
   },
   "peerDependencies": {
-    "eslint-plugin-react": "^6.1.2"
+    "eslint-plugin-react": "^7.0.0"
   }
 }
