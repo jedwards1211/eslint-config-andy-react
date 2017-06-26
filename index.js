@@ -11,7 +11,7 @@ module.exports = {
     "react/jsx-curly-spacing": ["error", "never"],
     "react/jsx-indent-props": "error",
     "react/jsx-key": "error",
-    "react/jsx-space-before-closing": "error",
+    "react/jsx-tag-spacing": "error",
     "react/no-did-mount-set-state": 0,
     "react/no-unknown-property": 0,
     // use babel-plugin-flow-react-proptypes instead

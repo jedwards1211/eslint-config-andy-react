@@ -1,6 +1,6 @@
 {
   "name": "@jedwards1211/eslint-config-react",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "my own eslint config for React.  eschews most stylistic rules that aren't auto-fixable",
   "main": "index.js",
   "scripts": {
