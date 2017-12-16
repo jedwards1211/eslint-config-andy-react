@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jedwards1211/eslint-config-andy-react#readme",
   "dependencies": {
-    "@jedwards1211/eslint-config": "^1.0.0"
+    "@jedwards1211/eslint-config": "^1.0.1"
   },
   "peerDependencies": {
     "eslint-plugin-react": "^7.0.0"
